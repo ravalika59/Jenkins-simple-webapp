@@ -29,9 +29,6 @@ pipeline {
                 echo 'The software will now be deployed!'    
                 
                 
-                
-                
-                
             }
         }
     }    
